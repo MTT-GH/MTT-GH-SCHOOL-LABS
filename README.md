@@ -5,10 +5,10 @@
 ### Lab 1: Create a GH Issue
 Report an existing issue in the content by opening a new issue in the original repo. This is the most common way to report an issue. Providing:
 
-    - A descriptive title linked to the Lab and Issue
-    - Clear issue description
-    - Include screenshots or other media
-    - (In lab 4) Include a link to the PR that fixes the issue
+- A descriptive title linked to the Lab and Issue
+- Clear issue description
+- Include screenshots or other media
+- (In lab 4) Include a link to the PR that fixes the issue
 
 ### Lab 2: Create your first Pull Request (Beginner)
 Create a PR directly from the GitHub UI in the original repo. This is the easiest way to create a PR. You can also create a PR from a forked repo, but that is a bit more complicated.
