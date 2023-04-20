@@ -36,9 +36,9 @@ When creating a new issue, you should provide:
 - A descriptive title linked to the Lab and Issue
 - Clear issue description
 - Include screenshots or other media (if that helps to understand the issue)
-- (TODO In [Lab 4](#lab-4-review-a-pull-request-intermediate)) Include a link to the PR that fixes the issue.
+- (Done in [Lab 2](#lab-2-create-a-pull-request-intermediate)) Include a link to the PR that fixes the issue.
 
-#### Exercise: Create a new issue
+#### Exercise: Create a new issue (Beginner)
 
 1. Make sure you are in the MS-ESI/MTT-GH-Fundamentals repo. You are going to use the source repository to report an issue found in the lab.
 1. Go to the [Lab1.md](Instructions/Lab1.md) file.
@@ -64,26 +64,22 @@ When creating a new issue, you should provide:
 
 1. Once reviewed and fixed, the issue will be closed by the Content Owner. You will still work on the issue during next labs. 
 
-### Lab 2: Create your first Pull Request (Beginner)
-Create a PR directly from the GitHub UI in the original repo. This is the easiest way to create a PR. You can also create a PR from a forked repo, but that is a bit more complicated.
 
-**ISSUE**: Simple typo in the `Lab1.md` file, for example, bold text is not closed.
-
-### Lab 3: Create a Pull Request (Intermediate)
+### Lab 2: Create a Pull Request (Intermediate)
 Create a PR from a forked repo. This is the most common way to create a PR. You will need to create a fork of the original repo, make changes to the fork, and then create a PR from the fork to the original repo.
 
 **ISSUE**: Multiple formatting issues in the `Lab1.md` file. Tables with wrong formatting, NOTE with incorrect indentation, etc.
-### Lab 4: Create a Pull Request (Advanced)
+### Lab 3: Create a Pull Request (Advanced)
 Create a PR from the forked repo, proposing a image update.
 
 **ISSUE**: The image in the `Lab1.md` file is outdated and contains trainer personal data. The image should be updated to reflect the latest UI changes. Use tools like Snagit to capture the new image and propose the change in the PR.
 
-### Lab 5: Review a Pull Request (Intermediate)
+### Lab 4: Review a Pull Request (Intermediate)
 Imagine you are the Content Owner/Courseware Lead. Review and collaborate with the contributor to make sure the PR is ready to merge.
 
 You will include a reference to the GH Issues that are fixed by this PR.
 
-## Lab 6: Review a Pull Request (Advanced)
+## Lab 5: Review a Pull Request (Advanced)
 Imagine you are the Content Owner/Courseware Lead. Review and collaborate with the contributor to make sure the PR is ready to merge.
 
 You will suggest a change to the proposed PR. The contributor will need to accept the change and update the PR.
