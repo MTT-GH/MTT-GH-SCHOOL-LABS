@@ -55,10 +55,14 @@ When creating a new issue, you should provide:
     ```The table format is not correct. The table is not rendered correctly in the GitHub UI.```
 1. Include an image of the issue. You can use the Snagit tool (or others) to capture the image and pointing the problem. You can attach it just by **pasting** into the issue description.
 
-1. Click on the **Submit new issue** button. Your issue should be created and look similar to the following one:
+1. Click on the **Submit new issue** button. Your issue should be created and look similar to the following [issue](https://github.com/MS-ESI/MTT-GH-Fundamentals/issues/2)  (some exercises to be done still ):
 
     ![Reference issue](media/reference-issue.png)
 
+1. You may need to collaborate further using the **comment section** of the issue, which is used fo conversation with other users and content owners (you can tag people using "@").
+1. Content Owners may also add labels to the issue to categorize it. For example, adding the **bug** label to the issue.
+
+1. Once reviewed and fixed, the issue will be closed by the Content Owner. You will still work on the issue during next labs. 
 
 ### Lab 2: Create your first Pull Request (Beginner)
 Create a PR directly from the GitHub UI in the original repo. This is the easiest way to create a PR. You can also create a PR from a forked repo, but that is a bit more complicated.
@@ -69,17 +73,17 @@ Create a PR directly from the GitHub UI in the original repo. This is the easies
 Create a PR from a forked repo. This is the most common way to create a PR. You will need to create a fork of the original repo, make changes to the fork, and then create a PR from the fork to the original repo.
 
 **ISSUE**: Multiple formatting issues in the `Lab1.md` file. Tables with wrong formatting, NOTE with incorrect indentation, etc.
-### Lab 3: Create a Pull Request (Advanced)
+### Lab 4: Create a Pull Request (Advanced)
 Create a PR from the forked repo, proposing a image update.
 
 **ISSUE**: The image in the `Lab1.md` file is outdated and contains trainer personal data. The image should be updated to reflect the latest UI changes. Use tools like Snagit to capture the new image and propose the change in the PR.
 
-### Lab 4: Review a Pull Request (Intermediate)
+### Lab 5: Review a Pull Request (Intermediate)
 Imagine you are the Content Owner/Courseware Lead. Review and collaborate with the contributor to make sure the PR is ready to merge.
 
 You will include a reference to the GH Issues that are fixed by this PR.
 
-## Lab 5: Review a Pull Request (Advanced)
+## Lab 6: Review a Pull Request (Advanced)
 Imagine you are the Content Owner/Courseware Lead. Review and collaborate with the contributor to make sure the PR is ready to merge.
 
 You will suggest a change to the proposed PR. The contributor will need to accept the change and update the PR.
