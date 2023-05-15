@@ -229,8 +229,10 @@ Let´s imagine, as a Content Developer, you want to suggest a change to the open
 
 1. Lets imagine we would like a more complete ALT text for the image: As a maintainer , you would include the following and **Submit a review**:
 
-    ```suggestion
-        ![Create WebApp page in Azure Portal](media/create-webapp-v2.png)
+    ```
+        ```suggestion
+            ![Create WebApp page in Azure Portal](media/create-webapp-v2.png)
+        ```
     ```
 1. Now the PR creator would get a message with the changes asked by the maintainer and can **Commit suggestion**.
 
