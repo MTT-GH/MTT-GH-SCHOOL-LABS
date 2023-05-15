@@ -178,7 +178,62 @@ Imagine you are the Content Owner/Courseware Lead. Review and collaborate with t
 
 You will include a reference to the GH Issues that are fixed by this PR.
 
+#### Exercise
+
+In this exercise you will review an existing Pull Request to understand the artifacts included and necessary steps to approve/merge a PR. **You will only review the existing options as part of the exercise, no actions expected! (the content dev usually takes the ownership of this part)**. 
+
+1. Go to the source repository "MS-ESI/MTT-GH-Fundamentals" on GitHub.
+1. Click on the **Pull requests** tab.
+1. Open the Pull Request with title **[REFERENCE] Fix table format in Lab1.md**. It is a PR similar to the one done in Lab 2, it fixes a table format in the Lab1.md file.
+1. On the **Conversation** tab, you can review the conversation between the contributor and the reviewer. You can see the PR actitity, changes/commits, comments, approval, etc. 
+1. On the **Commits** tab, you can review the commits included in the PR.
+1. On the **Checks** (not used in this labs) tab, you can review the status of the checks included in the PR. Checks are validations for your code you can automatically execute in a GitHub Actions (like linting, building code, unit testing, etc.).
+1. On the **Files changed** tab, you can review the files included in the PR and the changes proposed. You can also **add comments** to the PR on specific lines of code (using the "+" icon).
+1. On the **Development** tab, you can see the related issues (either added manually or automatically by using the **Fixes #X** syntax on the PR description).
+1. (For content Developers) As you can see on the reference PR, on the **Reviewers** field, a reviewer has been assigned (by the maintainer). The reviewer will have to review the proposed changes (**Files changed** tab), provide feedback and approve the PR. Once the PR is approved, the maintainer will merge the PR to the main branch. 
+
+    ![PR UI](media/PR-approve.png)
+
+    
+
+**As an MTT you could help Content Developer by reviewing the proposed changes and providing feedback/comments.**
+
+If the PR would be merged (left opened on purpose for review), you would see the following:
+- The PR would merge changes to the main branch of the source repository.
+- The PR would be closed.
+- The referenced Issue would be closed.
+
+    ![PR UI](media/PR-merged.png)
+
+On this lab you have reviewed an existing Pull Request to understand the artifacts included and necessary steps to approve/merge a PR.
+
+
 ## Lab 5: Review a Pull Request (Intermediate)
 Imagine you are the Content Owner/Courseware Lead. Review and collaborate with the contributor to make sure the PR is ready to merge.
 
-You will suggest a change to the proposed PR. The contributor will need to accept the change and update the PR.
+This time, a change will be suggested to the proposed PR. The contributor will need to accept the change and update the PR.
+
+#### Exercise
+
+In this exercise you will review an existing Pull Request to understand the artifacts included and necessary steps to approve/merge a PR. **You will only review the existing options as part of the exercise, no actions expected! (the content dev usually takes the ownership of this part)**.
+
+1. Go to the source repository "MS-ESI/MTT-GH-Fundamentals" on GitHub.
+1. Click on the **Pull requests** tab.
+1. Open the Pull Request with title **[REFERENCE] Update image that contained personal data**. It is a PR similar to the one done in Lab 3, it fixes image that contained personal data.
+
+Let´s imagine, as a Content Developer, you want to suggest a change to the opened PR (PR not ready to merge). You can add a comment and wait for the change or **suggest the change you are looking for**. Lets review the second option.
+
+1. On the **Files changed** tab, you could suggest a change on line 51, clicking on the **Suggest a change** button.
+
+    ![PR UI](media/PR-suggest-change.png)
+
+1. Lets imagine we would like a more complete ALT text for the image: As a maintainer , you would include the following and **Submit a review**:
+
+    ```suggestion
+        ![Create WebApp page in Azure Portal](media/create-webapp-v2.png)
+    ```
+1. Now the PR creator would get a message with the changes asked by the maintainer and can **Commit suggestion**.
+
+    ![PR UI](media/PR-commit-suggestion.png)
+
+On this lab, you have reviewed an existing PR and reviewed how to suggest a change to the PR creator.
