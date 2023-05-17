@@ -21,7 +21,7 @@ You can perfectly collaborate in the MOC content without cloning the repo to you
 ## Repository Structure
 The repository is composed of the following files/folders:
 - **README.md**: This file. Contains the instructions for the lab.
-- **Instructions** folder: Contains the instructions for the demo lab we will collaborate in.
+- **Instructions** folder: Contains the instructions for the **demo lab file** we will modify .
     - **media** folder: Contains the images used in the instructions.
     - **WebApp-Lab.md**: Instructions for the first demo lab.
 
