@@ -27,8 +27,8 @@ The repository is composed of the following files/folders:
 
 ## Lab Instructions
 
-    - [Lab 1 - Create a GH Issue](Lab1-Create-GH-Issue.md)
-    - [Lab 2 - Create a Pull Request (Beginner)](Lab2-Create-PR-Beginner.md)
-    - [Lab 3 - Create a Pull Request (Intermediate)](Lab3-Create-PR-Intermediate.md)
-    - [Lab 4 - Review a Pull Request (Beginner)](Lab4-Review-PR-Beginner.md)
-    - [Lab 5 - Review a Pull Request (Intermediate)](Lab5-Review-PR-Intermediate.md)
+- [Lab 1 - Create a GH Issue](Lab1-Create-GH-Issue.md)
+- [Lab 2 - Create a Pull Request (Beginner)](Lab2-Create-PR-Beginner.md)
+- [Lab 3 - Create a Pull Request (Intermediate)](Lab3-Create-PR-Intermediate.md)
+- [Lab 4 - Review a Pull Request (Beginner)](Lab4-Review-PR-Beginner.md)
+- [Lab 5 - Review a Pull Request (Intermediate)](Lab5-Review-PR-Intermediate.md)
