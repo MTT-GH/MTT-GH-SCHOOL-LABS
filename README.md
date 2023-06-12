@@ -7,7 +7,7 @@ The scenarios proposed in these labs are based on the real-life scenarios that M
 - An **Source Repo (also called "Upstream")** that contains a simulated MOC content (https://github.com/MTT-GH/MTT-GH-SCHOOL-LABS). As mentioned on the learning material, the original repo is the source of truth for the content. It is the repo that contains the latest version of the content. The original repo is owned by the Content Owner /Maintainers (Content Devs in a real life scenario). As MTTs or learners, we can report issues and propose changes to the content by opening a PR in the original repo, **but we are not allowed to change it directly** (only maintainers can).
 - A **Forked repo (also called "Origin")** that contains a copy of the original repo. The forked repo is owned by the contributor (MTT or learner in a real life scenario). The forked repo is used to **make experiment making changes to the content and propose them to the original repo**.
 
-![Upstream and Fork](media/upstreamandfork.png)
+![Upstream and Fork](media/upstreamandforkv2.png)
 
 You could also involve a local clone (copy) of the repo in your local machine. **This is not required for the lab. The labs will try to teach the easiest way to collaborate with GitHub, only using web interface tooling (no local repository involved, all done in GitHub)**. 
 
