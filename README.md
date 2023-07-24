@@ -15,7 +15,7 @@ You can perfectly collaborate in the MOC content without cloning the repo to you
 
 
 ## Pre-requisites
-- Make sure you have a **GitHub account**. If you don't have one, you can create one for free at https://github.com/join. Identify yourself as Microsoft MTT in your Profile (TODO guidelines?).
+- Make sure you have a **GitHub account**. If you don't have one, you can create one for free at https://github.com/join. Identify yourself as Microsoft MTT in your Profile Bio description.
 - Review the Learning material in [MTT GitHub School](https://mttghreadiness.azurewebsites.net/).
 
 ## Repository Structure
