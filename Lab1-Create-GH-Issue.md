@@ -11,7 +11,7 @@ When creating a new issue, you should provide:
 
 #### Exercise
 
-1. Make sure you are in the **MTT-GH/MTT-GH-Fundamentals** repo. You are going to use the source repository to report an issue found in the lab.
+1. Make sure you are in the **MTT-GH/MTT-GH-SCHOOL_LABS** repo. You are going to use the source repository to report an issue found in the lab.
 1. Go to the [WebApp-Lab.md](Instructions/WebApp-Lab.md) file.
 
 1. On Exercise 1 > Task 1 you can see there is an issue with the table format. You will be reporting this issue in the source repo (Upstream).
