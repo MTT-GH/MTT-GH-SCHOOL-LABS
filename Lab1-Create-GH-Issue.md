@@ -18,7 +18,7 @@ When creating a new issue, you should provide:
 
     ![Table issue](media/table-issue.png)
 
-1. Click on the **Issues** tab in the repo (make sure you are in the MTT-GH/MTT-GH-Fundamentals repo). Click on the **New issue** button.
+1. Click on the **Issues** tab in the repo (make sure you are in the MTT-GH/MTT-GH-SCHOOL-LABS repo). Click on the **New issue** button.
 
 1. Provide a descriptive title for the issue. For example: **Lab 1: E1T1 - Table format is not correct**.
 1. Provide a description to the issue. For example:
