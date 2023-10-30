@@ -46,7 +46,7 @@ In this task, you will create an Azure web app.
     | Runtime stack | **PHP 8.0** |
     | Operating system | **Linux** |
     | Region | the name of an Azure region where you can provision Azure web apps |
-    | App Service Plan  Accept the default configuration |
+    | App Service Plan | Accept the default configuration |
 
     ![Image](media/create-webapp-v1.png)
 
